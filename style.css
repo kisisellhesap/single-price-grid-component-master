@@ -68,7 +68,7 @@ main {
     color: var(--Cyan);
 }
 
-.header h3 {
+.header .day {
     font-size: .8rem;
     margin-top: 1rem;
     color: var(--Bright-Yellow);
